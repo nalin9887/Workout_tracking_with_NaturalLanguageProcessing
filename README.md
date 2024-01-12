@@ -2,12 +2,6 @@
 
 Welcome to the Workout Tracker project! This Python-based tool allows you to effortlessly keep track of your workouts and fitness progress. By integrating the Nutritionix API for exercise data extraction and the Sheety API for storing workout records in a Google Sheet, you can efficiently monitor your fitness journey.
 
-## GitHub Statistics
-![GitHub License](https://img.shields.io/github/license/YourUsername/WorkoutTracker)
-![GitHub Stars](https://img.shields.io/github/stars/YourUsername/WorkoutTracker)
-![GitHub Forks](https://img.shields.io/github/forks/YourUsername/WorkoutTracker)
-![GitHub Issues](https://img.shields.io/github/issues/YourUsername/WorkoutTracker)
-
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Features](#features)
